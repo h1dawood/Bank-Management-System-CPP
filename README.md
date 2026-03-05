@@ -27,7 +27,7 @@ A robust console-based banking application written in C++. This project demonstr
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/YOUR_USERNAME/Bank-Management-System-CPP.git
+    git clone https://github.com/h1dawood/Bank-Management-System-CPP.git
     ```
 2.  **Compile the Code**
     You can use any C++ compiler (GCC, Clang, or MSVC).
